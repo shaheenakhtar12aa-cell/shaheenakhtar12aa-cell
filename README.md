@@ -1,8 +1,8 @@
 <div align="center">
 
-# Shaheen • Cyber Security & AI Researcher
+# Shaheen • Building & Learning
 
-*Generative AI, Cloud Security, Automation, Scripting*
+*Python, Cloud Infrastructure, Security, Automation*
 
 </div>
 
