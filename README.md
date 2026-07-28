@@ -1,8 +1,8 @@
 <div align="center">
 
-# Shaheen • CS Student & Developer
+# Shaheen • Building & Learning
 
-*Coffee, Code, Cloud, Cybersecurity*
+*Python, Cloud Infrastructure, Security, Automation*
 
 </div>
 
