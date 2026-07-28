@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**shaheenakhtar12aa-cell/shaheenakhtar12aa-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌟 Shaheen Akhtar
 
-Here are some ideas to get you started:
+### 💻 Computer Science Researcher & Developer
+*Generative AI • Autonomous Cyber Defense • Multi-Cloud Infrastructure*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-shaheen--akhtar-0A66C1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaheen-akhtar-95618038b)
+[![Email Badge](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaheenakhtar12aa@gmail.com)
+
+</div>
+
+---
+
+### 🌸 About Me
+
+```text
+  ___  _               _                        _     _ tar 
+ / __|| |_   __ _  _ _| |_  ___ ___ _ _    __ _| |__ | |_  __ _ _ _ 
+ \__ \| ' \ / _` || ' \| ' \/ -_) -_) ' \  / _` | / / | ' \/ _` | '_|
+ |___/|_||_|\__,_||_||_|_||_\___\___|_||_| \__,_|_\_\ |_||_|\__,_|_|
