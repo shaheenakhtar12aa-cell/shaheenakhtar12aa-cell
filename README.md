@@ -40,7 +40,7 @@ You can find my recent projects here on GitHub.
 
 - **Woman Security Application:** Mobile safety app.
 - **Automation Scripts:** Python automation tools and cloud configurations.
-
+- **AI-threat-detection:** Advanced AI-powered threat detection and automated security analysis system for modern multi-cloud environments.
 ---
 
 ### ✦ How to Reach Me
